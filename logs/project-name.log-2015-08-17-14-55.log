@@ -1,0 +1,5 @@
+2015-08-17 14:55:29,082 [main] [com.shengli.utilities.GuavaStrings] [INFO] : Old way is ->fooxxx
+2015-08-17 14:55:29,084 [main] [com.shengli.utilities.GuavaStrings] [INFO] : USING GUAVA padEnd is ->fooxxx
+2015-08-17 14:55:29,084 [main] [com.shengli.utilities.GuavaStrings] [INFO] : USING GUAVA padStart is ->foo123
+2015-08-17 14:55:29,085 [main] [com.shengli.utilities.GuavaStrings] [INFO] : ABC
+2015-08-17 14:55:29,085 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 

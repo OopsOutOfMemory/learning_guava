@@ -1,0 +1,6 @@
+2015-08-17 11:34:54,717 [main] [com.shengli.utilities.Joiners] [INFO] : Using the old Method to build String->I|Love|MyFamily
+2015-08-17 11:34:54,721 [main] [com.shengli.utilities.Joiners] [INFO] : Using the Guava Joiner to build String->I|Love|MyFamily
+2015-08-17 11:34:54,721 [main] [com.shengli.utilities.Joiners] [INFO] : Using the Guava Joiner to build String, Replace NULL value->I|Love|MyFamily| : ) 
+2015-08-17 11:34:54,721 [main] [com.shengli.utilities.Joiners] [INFO] : Define a joiner, apply a value on it->I|Love|MyFamily
+2015-08-17 11:34:54,722 [main] [com.shengli.utilities.Joiners] [INFO] : Append a SkipNulls joiner string into a StringBuilderfoo|nar|zer
+2015-08-17 11:34:54,733 [main] [com.shengli.utilities.Joiners] [INFO] : Map join k=v is =>Washington D.C=Redskins|New York City=Giants|Philadelphia=Eagles|Dallas=Cowboys
