@@ -1,14 +1,1 @@
-2015-08-17 14:57:44,305 [main] [com.shengli.utilities.GuavaStrings] [INFO] : Old way is ->fooxxx
-2015-08-17 14:57:44,308 [main] [com.shengli.utilities.GuavaStrings] [INFO] : USING GUAVA padEnd is ->fooxxx
-2015-08-17 14:57:44,308 [main] [com.shengli.utilities.GuavaStrings] [INFO] : USING GUAVA padStart is ->foo123
-2015-08-17 14:57:44,308 [main] [com.shengli.utilities.GuavaStrings] [INFO] : ABC
-2015-08-17 14:57:44,308 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 
-2015-08-17 14:57:44,308 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 
-2015-08-17 14:57:44,308 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 
-2015-08-17 14:57:59,256 [main] [com.shengli.utilities.GuavaStrings] [INFO] : Old way is ->fooxxx
-2015-08-17 14:57:59,258 [main] [com.shengli.utilities.GuavaStrings] [INFO] : USING GUAVA padEnd is ->fooxxx
-2015-08-17 14:57:59,258 [main] [com.shengli.utilities.GuavaStrings] [INFO] : USING GUAVA padStart is ->foo123
-2015-08-17 14:57:59,258 [main] [com.shengli.utilities.GuavaStrings] [INFO] : ABC
-2015-08-17 14:57:59,259 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 
-2015-08-17 14:57:59,259 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 
-2015-08-17 14:57:59,259 [main] [com.shengli.utilities.GuavaStrings] [INFO] : 
+2015-08-21 15:53:36,586 [main] [com.shengli.collections.GuavaFiles] [INFO] : 1246
